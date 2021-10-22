@@ -1,1 +1,1 @@
-ce fichier me sert comme apprentisage de C#
+ce fichier me sert comme apprentisage du C#
